@@ -1,13 +1,10 @@
-# config.py
-
-# Versión actual del pipeline (sincronizada con el archivo VERSION)
-PIPELINE_VERSION = "2.0"
+# config.py Esp
 
 # — Play Store app ID —
-APP_ID     = "com.bancomer.mbanking"
+APP_ID     = "com.bbva.bbvacontigo"
 
 # — S3 bucket y prefijos —
-BUCKET = "bbva-playstore-reviews"
+BUCKET = "bbva-playstore-reviews-esp"
 RAW_PREFIX     = "raw/playstore"     # lugar donde se suben los CSV mensuales originales
 CLEAN_PREFIX   = "clean/playstore"   # lugar donde se suben los CSV limpios
 SENTIMENT_PREFIX = "sentimientos"    # lugar donde se suben los CSV con sentimiento
