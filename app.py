@@ -37,7 +37,7 @@ st.set_page_config(
     layout="wide",
 )
 
-st.title("📊 Dashboard: Sentimiento y Tópicos de Reseñas ")
+st.title("🇪🇸 Dashboard: Sentimiento y Tópicos de Reseñas ")
 
 
 # ================================================
