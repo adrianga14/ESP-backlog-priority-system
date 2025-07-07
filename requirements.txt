@@ -5,7 +5,7 @@
 streamlit
 #pandas
 #altair
-#boto3
+boto3
 #torch copia 
 #pip install --upgrade torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
 #import torch
